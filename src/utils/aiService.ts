@@ -1,7 +1,4 @@
-import { GoogleGenerativeAI } from '@google/generative-ai';
 import { Word } from '../types';
-
-const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY || '');
 
 const FALLBACK_WORDS: Record<string, Word[]> = {
   ko: [
@@ -30,7 +27,7 @@ const FALLBACK_WORDS: Record<string, Word[]> = {
   ],
   ja: [
     { id: 'j1', text: '徳川家康', category: '歴史上の人物', difficulty: 'easy' },
-    { id: 'j2', text: '寿司', category: '食べ物', difficulty: 'easy' },
+    { id: 'j2', text: '寿司', category: '食べ물', difficulty: 'easy' },
     { id: 'j3', text: '大谷翔平', category: 'スポーツ選手', difficulty: 'medium' },
     { id: 'j4', text: '量子力学', category: '科学/常識', difficulty: 'hard' },
     { id: 'j5', text: '富士山', category: '場所', difficulty: 'easy' },
@@ -43,30 +40,19 @@ const FALLBACK_WORDS: Record<string, Word[]> = {
 };
 
 export async function generateTrendingWords(language: string): Promise<Word[]> {
-  const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
-
-  const prompt = `Generate 20 trending or interesting vocabulary words for a trivia game in language: ${language}. 
-  Both the word "text" and the "category" MUST be written in the requested language: ${language}.
-  Common categories: Historical Figure, Celebrity, Sport Star, Scientist, Virtual Character, Animal, Object, Country, Action, Food, Job.
-  Return ONLY a valid JSON array of objects with the following structure. Do not include markdown formatting:
-  [
-    {
-      "id": "unique-id",
-      "text": "Word Text",
-      "category": "Category Name",
-      "difficulty": "easy/medium/hard"
-    }
-  ]`;
-
   try {
-    const result = await model.generateContent(prompt);
-    const text = result.response.text();
-    
-    // Extract JSON from the response
-    const jsonMatch = text.match(/\[.*\]/s);
-    if (!jsonMatch) throw new Error('Invalid AI response format');
-    
-    const parsedWords = JSON.parse(jsonMatch[0]);
+    // SECURITY: API Key is now hidden behind Cloudflare Functions (Edge runtime)
+    const response = await fetch('/api/generate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ language })
+    });
+
+    if (!response.ok) {
+      throw new Error('API request failed');
+    }
+
+    const parsedWords = await response.json();
     
     return parsedWords.map((w: any) => ({
       ...w,
@@ -74,9 +60,8 @@ export async function generateTrendingWords(language: string): Promise<Word[]> {
     })) as Word[];
   } catch (error) {
     console.error('Error in AI word generation, falling back to static list:', error);
-    // Return fallback words if AI fails (e.g., due to quota)
+    // Return fallback words if AI fails
     const fallback = FALLBACK_WORDS[language] || FALLBACK_WORDS['en'];
-    // Shuffle fallback words or just return a slice if needed
     return [...fallback].sort(() => 0.5 - Math.random());
   }
 }
