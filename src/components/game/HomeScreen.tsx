@@ -70,14 +70,15 @@ export const HomeScreen = () => {
         transition={{ duration: 0.8, ease: 'easeOut' }}
         className="z-10 flex flex-col items-center"
       >
-        <h1 className="text-6xl sm:text-8xl font-black tracking-tighter mb-4 text-transparent bg-clip-text bg-gradient-to-br from-emerald-400 to-cyan-500 drop-shadow-[0_0_25px_rgba(16,185,129,0.4)] text-center">
-          {t.title.split('\n').map((line: string, i: number) => (
-            <div key={i}>
-              {line}
-              {i === 0 && <br />}
-            </div>
-          ))}
-        </h1>
+          <div className="flex flex-col items-center gap-4">
+            <h1 className="text-6xl font-black tracking-tighter sm:text-7xl lg:text-8xl">
+              GALAXY <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">WORDS</span>
+            </h1>
+            <p className="max-w-md text-center text-slate-400 sm:text-lg">
+              AI가 실시간으로 생성하는 트렌드 단어로 즐기는<br/>
+              스릴 넘치는 스와이프 파티 단어 게임
+            </p>
+          </div>
         <p className="text-xl sm:text-2xl text-slate-400 font-mono tracking-widest mb-8 uppercase text-center max-w-md">
           {t.subtitle}
         </p>
