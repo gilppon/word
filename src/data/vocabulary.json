@@ -1,0 +1,2708 @@
+{
+  "ko": [
+    {
+      "id": "ko-1",
+      "text": "세종대왕",
+      "category": "역사적 인물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-2",
+      "text": "이순신",
+      "category": "역사적 인물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-3",
+      "text": "유재석",
+      "category": "연예인",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-4",
+      "text": "손흥민",
+      "category": "스포츠 스타",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-5",
+      "text": "김연아",
+      "category": "스포츠 스타",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-6",
+      "text": "아이유",
+      "category": "연예인",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-7",
+      "text": "아인슈타인",
+      "category": "과학자",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-8",
+      "text": "해리포터",
+      "category": "가상 인물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-9",
+      "text": "스파이더맨",
+      "category": "가상 인물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-10",
+      "text": "스티브 잡스",
+      "category": "기업인",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-11",
+      "text": "일론 머스크",
+      "category": "기업인",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-12",
+      "text": "페이커",
+      "category": "e스포츠 선수",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-13",
+      "text": "마이클 조던",
+      "category": "스포츠 스타",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-14",
+      "text": "찰리 채플린",
+      "category": "연예인",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-15",
+      "text": "셜록 홈즈",
+      "category": "가상 인물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-16",
+      "text": "베토벤",
+      "category": "음악가",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-17",
+      "text": "모차르트",
+      "category": "음악가",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-18",
+      "text": "이국종",
+      "category": "의사",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-19",
+      "text": "봉준호",
+      "category": "영화감독",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-20",
+      "text": "백종원",
+      "category": "요리연구가",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-21",
+      "text": "아이언맨",
+      "category": "가상 인물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-22",
+      "text": "마리 퀴리",
+      "category": "과학자",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-23",
+      "text": "링컨",
+      "category": "역사적 인물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-24",
+      "text": "간디",
+      "category": "역사적 인물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-25",
+      "text": "피카소",
+      "category": "예술가",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-26",
+      "text": "방탄소년단",
+      "category": "가수",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-27",
+      "text": "이재용",
+      "category": "기업인",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-28",
+      "text": "에디슨",
+      "category": "과학자",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-29",
+      "text": "리오넬 메시",
+      "category": "스포츠 스타",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-30",
+      "text": "배트맨",
+      "category": "가상 인물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-31",
+      "text": "호랑이",
+      "category": "동물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-32",
+      "text": "코끼리",
+      "category": "동물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-33",
+      "text": "기린",
+      "category": "동물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-34",
+      "text": "원숭이",
+      "category": "동물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-35",
+      "text": "펭귄",
+      "category": "동물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-36",
+      "text": "스마트폰",
+      "category": "사물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-37",
+      "text": "노트북",
+      "category": "사물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-38",
+      "text": "자전거",
+      "category": "사물",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-39",
+      "text": "피아노",
+      "category": "사물",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-40",
+      "text": "카메라",
+      "category": "사물",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-41",
+      "text": "대한민국",
+      "category": "나라",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-42",
+      "text": "미국",
+      "category": "나라",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-43",
+      "text": "일본",
+      "category": "나라",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-44",
+      "text": "프랑스",
+      "category": "나라",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-45",
+      "text": "호주",
+      "category": "나라",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-46",
+      "text": "달리기",
+      "category": "행동",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-47",
+      "text": "수영하기",
+      "category": "행동",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-48",
+      "text": "노래하기",
+      "category": "행동",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-49",
+      "text": "춤추기",
+      "category": "행동",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-50",
+      "text": "요리하기",
+      "category": "행동",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-51",
+      "text": "피자",
+      "category": "음식",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-52",
+      "text": "햄버거",
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-53",
+      "text": "초밥",
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-54",
+      "text": "김치찌개",
+      "category": "음식",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-55",
+      "text": "떡볶이",
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-56",
+      "text": "라면",
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-57",
+      "text": "치킨",
+      "category": "음식",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-58",
+      "text": "삼겹살",
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-59",
+      "text": "비빔밥",
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-60",
+      "text": "돈까스",
+      "category": "음식",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-61",
+      "text": "짜장면",
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-62",
+      "text": "짬뽕",
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-63",
+      "text": "탕수육",
+      "category": "음식",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-64",
+      "text": "냉면",
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-65",
+      "text": "칼국수",
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-66",
+      "text": "스테이크",
+      "category": "음식",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-67",
+      "text": "파스타",
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-68",
+      "text": "샐러드",
+      "category": "음식",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-69",
+      "text": "샌드위치",
+      "category": "음식",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-70",
+      "text": "김밥",
+      "category": "음식",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-71",
+      "text": "의사",
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-72",
+      "text": "간호사",
+      "category": "직업",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-73",
+      "text": "경찰관",
+      "category": "직업",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-74",
+      "text": "소방관",
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-75",
+      "text": "선생님",
+      "category": "직업",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-76",
+      "text": "요리사",
+      "category": "직업",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-77",
+      "text": "개발자",
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-78",
+      "text": "디자이너",
+      "category": "직업",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-79",
+      "text": "가수",
+      "category": "직업",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-80",
+      "text": "배우",
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-81",
+      "text": "운동선수",
+      "category": "직업",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-82",
+      "text": "변호사",
+      "category": "직업",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-83",
+      "text": "판사",
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-84",
+      "text": "기자",
+      "category": "직업",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-85",
+      "text": "작가",
+      "category": "직업",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-86",
+      "text": "화가",
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-87",
+      "text": "음악가",
+      "category": "직업",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-88",
+      "text": "건축가",
+      "category": "직업",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-89",
+      "text": "농부",
+      "category": "직업",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-90",
+      "text": "어부",
+      "category": "직업",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-91",
+      "text": "축구",
+      "category": "스포츠",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-92",
+      "text": "야구",
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-93",
+      "text": "농구",
+      "category": "스포츠",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-94",
+      "text": "배구",
+      "category": "스포츠",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-95",
+      "text": "테니스",
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-96",
+      "text": "탁구",
+      "category": "스포츠",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-97",
+      "text": "배드민턴",
+      "category": "스포츠",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-98",
+      "text": "수영",
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-99",
+      "text": "육상",
+      "category": "스포츠",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-100",
+      "text": "체조",
+      "category": "스포츠",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-101",
+      "text": "골프",
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-102",
+      "text": "복싱",
+      "category": "스포츠",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-103",
+      "text": "태권도",
+      "category": "스포츠",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-104",
+      "text": "유도",
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-105",
+      "text": "레슬링",
+      "category": "스포츠",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-106",
+      "text": "양궁",
+      "category": "스포츠",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-107",
+      "text": "펜싱",
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-108",
+      "text": "스키",
+      "category": "스포츠",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-109",
+      "text": "스노보드",
+      "category": "스포츠",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-110",
+      "text": "피겨스케이팅",
+      "category": "스포츠",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-111",
+      "text": "자동차",
+      "category": "탈것",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-112",
+      "text": "버스",
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-113",
+      "text": "택시",
+      "category": "탈것",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-114",
+      "text": "기차",
+      "category": "탈것",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-115",
+      "text": "지하철",
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-116",
+      "text": "비행기",
+      "category": "탈것",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-117",
+      "text": "헬리콥터",
+      "category": "탈것",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-118",
+      "text": "배",
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-119",
+      "text": "잠수함",
+      "category": "탈것",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-120",
+      "text": "오토바이",
+      "category": "탈것",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-121",
+      "text": "자전거",
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-122",
+      "text": "킥보드",
+      "category": "탈것",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-123",
+      "text": "트럭",
+      "category": "탈것",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-124",
+      "text": "구급차",
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-125",
+      "text": "소방차",
+      "category": "탈것",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-126",
+      "text": "경찰차",
+      "category": "탈것",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-127",
+      "text": "포크레인",
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-128",
+      "text": "트랙터",
+      "category": "탈것",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-129",
+      "text": "우주선",
+      "category": "탈것",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-130",
+      "text": "열기구",
+      "category": "탈것",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-131",
+      "text": "바다",
+      "category": "자연",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-132",
+      "text": "산",
+      "category": "자연",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-133",
+      "text": "강",
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-134",
+      "text": "호수",
+      "category": "자연",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-135",
+      "text": "숲",
+      "category": "자연",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-136",
+      "text": "사막",
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-137",
+      "text": "하늘",
+      "category": "자연",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-138",
+      "text": "구름",
+      "category": "자연",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-139",
+      "text": "비",
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-140",
+      "text": "눈",
+      "category": "자연",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-141",
+      "text": "바람",
+      "category": "자연",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-142",
+      "text": "태양",
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-143",
+      "text": "달",
+      "category": "자연",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-144",
+      "text": "별",
+      "category": "자연",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-145",
+      "text": "무지개",
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-146",
+      "text": "번개",
+      "category": "자연",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-147",
+      "text": "화산",
+      "category": "자연",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ko-148",
+      "text": "동굴",
+      "category": "자연",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ko-149",
+      "text": "폭포",
+      "category": "자연",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ko-150",
+      "text": "섬",
+      "category": "자연",
+      "difficulty": "hard"
+    }
+  ],
+  "en": [
+    {
+      "id": "en-1",
+      "text": "Albert Einstein",
+      "category": "Scientist",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-2",
+      "text": "Steve Jobs",
+      "category": "Entrepreneur",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-3",
+      "text": "Harry Potter",
+      "category": "Fictional",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-4",
+      "text": "Spider-Man",
+      "category": "Fictional",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-5",
+      "text": "Michael Jordan",
+      "category": "Athlete",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-6",
+      "text": "Charlie Chaplin",
+      "category": "Entertainer",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-7",
+      "text": "Sherlock Holmes",
+      "category": "Fictional",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-8",
+      "text": "Beethoven",
+      "category": "Musician",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-9",
+      "text": "Mozart",
+      "category": "Musician",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-10",
+      "text": "Iron Man",
+      "category": "Fictional",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-11",
+      "text": "Marie Curie",
+      "category": "Scientist",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-12",
+      "text": "Abraham Lincoln",
+      "category": "Historical",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-13",
+      "text": "Mahatma Gandhi",
+      "category": "Historical",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-14",
+      "text": "Pablo Picasso",
+      "category": "Artist",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-15",
+      "text": "Elon Musk",
+      "category": "Entrepreneur",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-16",
+      "text": "Lionel Messi",
+      "category": "Athlete",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-17",
+      "text": "Batman",
+      "category": "Fictional",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-18",
+      "text": "Superman",
+      "category": "Fictional",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-19",
+      "text": "Taylor Swift",
+      "category": "Musician",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-20",
+      "text": "Leonardo da Vinci",
+      "category": "Artist",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-21",
+      "text": "Marilyn Monroe",
+      "category": "Entertainer",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-22",
+      "text": "Elvis Presley",
+      "category": "Musician",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-23",
+      "text": "Muhammad Ali",
+      "category": "Athlete",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-24",
+      "text": "Nelson Mandela",
+      "category": "Historical",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-25",
+      "text": "Walt Disney",
+      "category": "Entrepreneur",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-26",
+      "text": "Bill Gates",
+      "category": "Entrepreneur",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-27",
+      "text": "Serena Williams",
+      "category": "Athlete",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-28",
+      "text": "Usain Bolt",
+      "category": "Athlete",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-29",
+      "text": "Bruce Lee",
+      "category": "Entertainer",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-30",
+      "text": "Mickey Mouse",
+      "category": "Fictional",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-31",
+      "text": "Tiger",
+      "category": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-32",
+      "text": "Elephant",
+      "category": "Animals",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-33",
+      "text": "Giraffe",
+      "category": "Animals",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-34",
+      "text": "Monkey",
+      "category": "Animals",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-35",
+      "text": "Penguin",
+      "category": "Animals",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-36",
+      "text": "Smartphone",
+      "category": "Objects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-37",
+      "text": "Laptop",
+      "category": "Objects",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-38",
+      "text": "Bicycle",
+      "category": "Objects",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-39",
+      "text": "Piano",
+      "category": "Objects",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-40",
+      "text": "Camera",
+      "category": "Objects",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-41",
+      "text": "South Korea",
+      "category": "Countries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-42",
+      "text": "United States",
+      "category": "Countries",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-43",
+      "text": "Japan",
+      "category": "Countries",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-44",
+      "text": "France",
+      "category": "Countries",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-45",
+      "text": "Australia",
+      "category": "Countries",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-46",
+      "text": "Running",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-47",
+      "text": "Swimming",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-48",
+      "text": "Singing",
+      "category": "Actions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-49",
+      "text": "Dancing",
+      "category": "Actions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-50",
+      "text": "Cooking",
+      "category": "Actions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-51",
+      "text": "Pizza",
+      "category": "Food",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-52",
+      "text": "Hamburger",
+      "category": "Food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-53",
+      "text": "Sushi",
+      "category": "Food",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-54",
+      "text": "Kimchi Stew",
+      "category": "Food",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-55",
+      "text": "Tteokbokki",
+      "category": "Food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-56",
+      "text": "Ramen",
+      "category": "Food",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-57",
+      "text": "Fried Chicken",
+      "category": "Food",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-58",
+      "text": "Pork Belly",
+      "category": "Food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-59",
+      "text": "Bibimbap",
+      "category": "Food",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-60",
+      "text": "Pork Cutlet",
+      "category": "Food",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-61",
+      "text": "Jajangmyeon",
+      "category": "Food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-62",
+      "text": "Jjamppong",
+      "category": "Food",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-63",
+      "text": "Sweet and Sour Pork",
+      "category": "Food",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-64",
+      "text": "Cold Noodles",
+      "category": "Food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-65",
+      "text": "Kalguksu",
+      "category": "Food",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-66",
+      "text": "Steak",
+      "category": "Food",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-67",
+      "text": "Pasta",
+      "category": "Food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-68",
+      "text": "Salad",
+      "category": "Food",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-69",
+      "text": "Sandwich",
+      "category": "Food",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-70",
+      "text": "Gimbap",
+      "category": "Food",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-71",
+      "text": "Doctor",
+      "category": "Professions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-72",
+      "text": "Nurse",
+      "category": "Professions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-73",
+      "text": "Police Officer",
+      "category": "Professions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-74",
+      "text": "Firefighter",
+      "category": "Professions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-75",
+      "text": "Teacher",
+      "category": "Professions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-76",
+      "text": "Chef",
+      "category": "Professions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-77",
+      "text": "Developer",
+      "category": "Professions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-78",
+      "text": "Designer",
+      "category": "Professions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-79",
+      "text": "Singer",
+      "category": "Professions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-80",
+      "text": "Actor",
+      "category": "Professions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-81",
+      "text": "Athlete",
+      "category": "Professions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-82",
+      "text": "Lawyer",
+      "category": "Professions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-83",
+      "text": "Judge",
+      "category": "Professions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-84",
+      "text": "Journalist",
+      "category": "Professions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-85",
+      "text": "Writer",
+      "category": "Professions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-86",
+      "text": "Painter",
+      "category": "Professions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-87",
+      "text": "Musician",
+      "category": "Professions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-88",
+      "text": "Architect",
+      "category": "Professions",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-89",
+      "text": "Farmer",
+      "category": "Professions",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-90",
+      "text": "Fisherman",
+      "category": "Professions",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-91",
+      "text": "Soccer",
+      "category": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-92",
+      "text": "Baseball",
+      "category": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-93",
+      "text": "Basketball",
+      "category": "Sports",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-94",
+      "text": "Volleyball",
+      "category": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-95",
+      "text": "Tennis",
+      "category": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-96",
+      "text": "Table Tennis",
+      "category": "Sports",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-97",
+      "text": "Badminton",
+      "category": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-98",
+      "text": "Swimming",
+      "category": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-99",
+      "text": "Track and Field",
+      "category": "Sports",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-100",
+      "text": "Gymnastics",
+      "category": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-101",
+      "text": "Golf",
+      "category": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-102",
+      "text": "Boxing",
+      "category": "Sports",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-103",
+      "text": "Taekwondo",
+      "category": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-104",
+      "text": "Judo",
+      "category": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-105",
+      "text": "Wrestling",
+      "category": "Sports",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-106",
+      "text": "Archery",
+      "category": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-107",
+      "text": "Fencing",
+      "category": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-108",
+      "text": "Skiing",
+      "category": "Sports",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-109",
+      "text": "Snowboarding",
+      "category": "Sports",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-110",
+      "text": "Figure Skating",
+      "category": "Sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-111",
+      "text": "Car",
+      "category": "Vehicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-112",
+      "text": "Bus",
+      "category": "Vehicles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-113",
+      "text": "Taxi",
+      "category": "Vehicles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-114",
+      "text": "Train",
+      "category": "Vehicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-115",
+      "text": "Subway",
+      "category": "Vehicles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-116",
+      "text": "Airplane",
+      "category": "Vehicles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-117",
+      "text": "Helicopter",
+      "category": "Vehicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-118",
+      "text": "Ship",
+      "category": "Vehicles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-119",
+      "text": "Submarine",
+      "category": "Vehicles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-120",
+      "text": "Motorcycle",
+      "category": "Vehicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-121",
+      "text": "Bicycle",
+      "category": "Vehicles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-122",
+      "text": "Kickboard",
+      "category": "Vehicles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-123",
+      "text": "Truck",
+      "category": "Vehicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-124",
+      "text": "Ambulance",
+      "category": "Vehicles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-125",
+      "text": "Fire Engine",
+      "category": "Vehicles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-126",
+      "text": "Police Car",
+      "category": "Vehicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-127",
+      "text": "Excavator",
+      "category": "Vehicles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-128",
+      "text": "Tractor",
+      "category": "Vehicles",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-129",
+      "text": "Spaceship",
+      "category": "Vehicles",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-130",
+      "text": "Hot Air Balloon",
+      "category": "Vehicles",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-131",
+      "text": "Ocean",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-132",
+      "text": "Mountain",
+      "category": "Nature",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-133",
+      "text": "River",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-134",
+      "text": "Lake",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-135",
+      "text": "Forest",
+      "category": "Nature",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-136",
+      "text": "Desert",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-137",
+      "text": "Sky",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-138",
+      "text": "Cloud",
+      "category": "Nature",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-139",
+      "text": "Rain",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-140",
+      "text": "Snow",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-141",
+      "text": "Wind",
+      "category": "Nature",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-142",
+      "text": "Sun",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-143",
+      "text": "Moon",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-144",
+      "text": "Star",
+      "category": "Nature",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-145",
+      "text": "Rainbow",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-146",
+      "text": "Lightning",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-147",
+      "text": "Volcano",
+      "category": "Nature",
+      "difficulty": "hard"
+    },
+    {
+      "id": "en-148",
+      "text": "Cave",
+      "category": "Nature",
+      "difficulty": "easy"
+    },
+    {
+      "id": "en-149",
+      "text": "Waterfall",
+      "category": "Nature",
+      "difficulty": "medium"
+    },
+    {
+      "id": "en-150",
+      "text": "Island",
+      "category": "Nature",
+      "difficulty": "hard"
+    }
+  ],
+  "ja": [
+    {
+      "id": "ja-1",
+      "text": "徳川家康",
+      "category": "歴史上の人物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-2",
+      "text": "織田信長",
+      "category": "歴史上の人物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-3",
+      "text": "坂本龍馬",
+      "category": "歴史上の人物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-4",
+      "text": "宮崎駿",
+      "category": "映画監督",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-5",
+      "text": "イチロー",
+      "category": "スポーツ選手",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-6",
+      "text": "大谷翔平",
+      "category": "スポーツ選手",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-7",
+      "text": "ドラえもん",
+      "category": "架空の人物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-8",
+      "text": "ピカチュウ",
+      "category": "架空の人物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-9",
+      "text": "孫悟空",
+      "category": "架空の人物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-10",
+      "text": "ナルト",
+      "category": "架空の人物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-11",
+      "text": "ルフィ",
+      "category": "架空の人物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-12",
+      "text": "安室奈美恵",
+      "category": "歌手",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-13",
+      "text": "宇多田ヒカル",
+      "category": "歌手",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-14",
+      "text": "黒澤明",
+      "category": "映画監督",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-15",
+      "text": "手塚治虫",
+      "category": "漫画家",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-16",
+      "text": "夏目漱石",
+      "category": "作家",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-17",
+      "text": "マリオ",
+      "category": "架空の人物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-18",
+      "text": "ゴジラ",
+      "category": "架空の人物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-19",
+      "text": "ハローキティ",
+      "category": "架空の人物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-20",
+      "text": "羽生結弦",
+      "category": "スポーツ選手",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-21",
+      "text": "アインシュタイン",
+      "category": "科学者",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-22",
+      "text": "スティーブ・ジョブズ",
+      "category": "起業家",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-23",
+      "text": "ハリー・ポッター",
+      "category": "架空の人物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-24",
+      "text": "スパイダーマン",
+      "category": "架空の人物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-25",
+      "text": "マイケル・ジョーダン",
+      "category": "スポーツ選手",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-26",
+      "text": "ベートーヴェン",
+      "category": "音楽家",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-27",
+      "text": "モーツァルト",
+      "category": "音楽家",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-28",
+      "text": "アイアンマン",
+      "category": "架空の人物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-29",
+      "text": "ピカソ",
+      "category": "芸術家",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-30",
+      "text": "バットマン",
+      "category": "架空の人物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-31",
+      "text": "トラ",
+      "category": "動物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-32",
+      "text": "ゾウ",
+      "category": "動物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-33",
+      "text": "キリン",
+      "category": "動物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-34",
+      "text": "サル",
+      "category": "動物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-35",
+      "text": "ペンギン",
+      "category": "動物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-36",
+      "text": "スマートフォン",
+      "category": "物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-37",
+      "text": "ノートパソコン",
+      "category": "物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-38",
+      "text": "自転車",
+      "category": "物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-39",
+      "text": "ピアノ",
+      "category": "物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-40",
+      "text": "カメラ",
+      "category": "物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-41",
+      "text": "韓国",
+      "category": "国",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-42",
+      "text": "アメリカ",
+      "category": "国",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-43",
+      "text": "日本",
+      "category": "国",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-44",
+      "text": "フランス",
+      "category": "国",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-45",
+      "text": "オーストラリア",
+      "category": "国",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-46",
+      "text": "走る",
+      "category": "行動",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-47",
+      "text": "泳ぐ",
+      "category": "行動",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-48",
+      "text": "歌う",
+      "category": "行動",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-49",
+      "text": "踊る",
+      "category": "行動",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-50",
+      "text": "料理する",
+      "category": "行動",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-51",
+      "text": "ピザ",
+      "category": "食べ物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-52",
+      "text": "ハンバーガー",
+      "category": "食べ物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-53",
+      "text": "寿司",
+      "category": "食べ物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-54",
+      "text": "キムチチゲ",
+      "category": "食べ物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-55",
+      "text": "トッポッキ",
+      "category": "食べ物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-56",
+      "text": "ラーメン",
+      "category": "食べ物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-57",
+      "text": "フライドチキン",
+      "category": "食べ物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-58",
+      "text": "サムギョプサル",
+      "category": "食べ物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-59",
+      "text": "ビビンバ",
+      "category": "食べ物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-60",
+      "text": "とんかつ",
+      "category": "食べ物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-61",
+      "text": "ジャージャー麺",
+      "category": "食べ物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-62",
+      "text": "ちゃんぽん",
+      "category": "食べ物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-63",
+      "text": "酢豚",
+      "category": "食べ物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-64",
+      "text": "冷麺",
+      "category": "食べ物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-65",
+      "text": "カルグクス",
+      "category": "食べ物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-66",
+      "text": "ステーキ",
+      "category": "食べ物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-67",
+      "text": "パスタ",
+      "category": "食べ物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-68",
+      "text": "サラダ",
+      "category": "食べ物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-69",
+      "text": "サンドイッチ",
+      "category": "食べ物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-70",
+      "text": "キンパ",
+      "category": "食べ物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-71",
+      "text": "医者",
+      "category": "職業",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-72",
+      "text": "看護師",
+      "category": "職業",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-73",
+      "text": "警察官",
+      "category": "職業",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-74",
+      "text": "消防士",
+      "category": "職業",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-75",
+      "text": "先生",
+      "category": "職業",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-76",
+      "text": "シェフ",
+      "category": "職業",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-77",
+      "text": "開発者",
+      "category": "職業",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-78",
+      "text": "デザイナー",
+      "category": "職業",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-79",
+      "text": "歌手",
+      "category": "職業",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-80",
+      "text": "俳優",
+      "category": "職業",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-81",
+      "text": "スポーツ選手",
+      "category": "職業",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-82",
+      "text": "弁護士",
+      "category": "職業",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-83",
+      "text": "裁判官",
+      "category": "職業",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-84",
+      "text": "ジャーナリスト",
+      "category": "職業",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-85",
+      "text": "作家",
+      "category": "職業",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-86",
+      "text": "画家",
+      "category": "職業",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-87",
+      "text": "音楽家",
+      "category": "職業",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-88",
+      "text": "建築家",
+      "category": "職業",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-89",
+      "text": "農家",
+      "category": "職業",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-90",
+      "text": "漁師",
+      "category": "職業",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-91",
+      "text": "サッカー",
+      "category": "スポーツ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-92",
+      "text": "野球",
+      "category": "スポーツ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-93",
+      "text": "バスケットボール",
+      "category": "スポーツ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-94",
+      "text": "バレーボール",
+      "category": "スポーツ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-95",
+      "text": "テニス",
+      "category": "スポーツ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-96",
+      "text": "卓球",
+      "category": "スポーツ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-97",
+      "text": "バドミントン",
+      "category": "スポーツ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-98",
+      "text": "水泳",
+      "category": "スポーツ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-99",
+      "text": "陸上競技",
+      "category": "スポーツ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-100",
+      "text": "体操",
+      "category": "スポーツ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-101",
+      "text": "ゴルフ",
+      "category": "スポーツ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-102",
+      "text": "ボクシング",
+      "category": "スポーツ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-103",
+      "text": "テコンドー",
+      "category": "スポーツ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-104",
+      "text": "柔道",
+      "category": "スポーツ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-105",
+      "text": "レスリング",
+      "category": "スポーツ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-106",
+      "text": "アーチェリー",
+      "category": "スポーツ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-107",
+      "text": "フェンシング",
+      "category": "スポーツ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-108",
+      "text": "スキー",
+      "category": "スポーツ",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-109",
+      "text": "スノーボード",
+      "category": "スポーツ",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-110",
+      "text": "フィギュアスケート",
+      "category": "スポーツ",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-111",
+      "text": "車",
+      "category": "乗り物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-112",
+      "text": "バス",
+      "category": "乗り物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-113",
+      "text": "タクシー",
+      "category": "乗り物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-114",
+      "text": "電車",
+      "category": "乗り物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-115",
+      "text": "地下鉄",
+      "category": "乗り物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-116",
+      "text": "飛行機",
+      "category": "乗り物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-117",
+      "text": "ヘリコプター",
+      "category": "乗り物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-118",
+      "text": "船",
+      "category": "乗り物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-119",
+      "text": "潜水艦",
+      "category": "乗り物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-120",
+      "text": "オートバイ",
+      "category": "乗り物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-121",
+      "text": "自転車",
+      "category": "乗り物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-122",
+      "text": "キックボード",
+      "category": "乗り物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-123",
+      "text": "トラック",
+      "category": "乗り物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-124",
+      "text": "救急車",
+      "category": "乗り物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-125",
+      "text": "消防車",
+      "category": "乗り物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-126",
+      "text": "パトカー",
+      "category": "乗り物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-127",
+      "text": "ショベルカー",
+      "category": "乗り物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-128",
+      "text": "トラクター",
+      "category": "乗り物",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-129",
+      "text": "宇宙船",
+      "category": "乗り物",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-130",
+      "text": "熱気球",
+      "category": "乗り物",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-131",
+      "text": "海",
+      "category": "自然",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-132",
+      "text": "山",
+      "category": "自然",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-133",
+      "text": "川",
+      "category": "自然",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-134",
+      "text": "湖",
+      "category": "自然",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-135",
+      "text": "森",
+      "category": "自然",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-136",
+      "text": "砂漠",
+      "category": "自然",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-137",
+      "text": "空",
+      "category": "自然",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-138",
+      "text": "雲",
+      "category": "自然",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-139",
+      "text": "雨",
+      "category": "自然",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-140",
+      "text": "雪",
+      "category": "自然",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-141",
+      "text": "風",
+      "category": "自然",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-142",
+      "text": "太陽",
+      "category": "自然",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-143",
+      "text": "月",
+      "category": "自然",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-144",
+      "text": "星",
+      "category": "自然",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-145",
+      "text": "虹",
+      "category": "自然",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-146",
+      "text": "雷",
+      "category": "自然",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-147",
+      "text": "火山",
+      "category": "自然",
+      "difficulty": "hard"
+    },
+    {
+      "id": "ja-148",
+      "text": "洞窟",
+      "category": "自然",
+      "difficulty": "easy"
+    },
+    {
+      "id": "ja-149",
+      "text": "滝",
+      "category": "自然",
+      "difficulty": "medium"
+    },
+    {
+      "id": "ja-150",
+      "text": "島",
+      "category": "自然",
+      "difficulty": "hard"
+    }
+  ]
+}

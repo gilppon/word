@@ -1,0 +1,5 @@
+{
+  "name": "Galaxy Words",
+  "description": "Swipe-Based Party Word Game with a Sci-Fi Theme",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
