@@ -1,4 +1,4 @@
-export const onRequestPost: PagesFunction<{ GEMINI_API_KEY: string }> = async (context) => {
+export const onRequestPost: PagesFunction<{ GEMINI_API_KEY: string }> = async (context: EventContext<any, any, { GEMINI_API_KEY: string }>) => {
   try {
     const { language } = await context.request.json() as { language: string };
     const API_KEY = context.env.GEMINI_API_KEY;
